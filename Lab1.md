@@ -95,7 +95,6 @@ Instructor told us not to remove the fan because there are rubber plugs
 
 
 # Case
-![alt text]() 
 **Description**: Large flat square that was easy to remove from the frame of the computer.
 **Purpose**: To protect the interior components of the computer
 
