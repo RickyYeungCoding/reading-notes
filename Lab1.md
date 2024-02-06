@@ -86,7 +86,7 @@ Instructor told us not to remove the fan because there are rubber plugs
 
 # Power Supply
 
-**Make**: Dell INc
+**Make**: Dell Inc
 **Model**: L265EM-00
 **Specs**: Input - 100-240V Output - +12VA
 **Description**: Solid Metal square tin. Should not remove due to electrical components that may injure oneself.
@@ -95,7 +95,7 @@ Instructor told us not to remove the fan because there are rubber plugs
 
 
 # Case
-![alt text](image.jpg) 
+![alt text]() 
 **Description**: Large flat square that was easy to remove from the frame of the computer.
 **Purpose**: To protect the interior components of the computer
 
