@@ -11,3 +11,26 @@ Today, you open your lab kit PC (personal computer), identify select components,
 - Lab kit PC
 - Precision toolkit
 - Anti-static bracelet
+## Tasks
+Create a well-structured Google Doc that itemizes the internal components of your lab computer. Copy and paste the lab instructions into your Google Doc and use text headings to segment the document to describe each component below. Every section should include a photo, description, and purpose of the component. Be sure to take note of any errors, their solutions and resources used. For items that say EXTRACT, completely disconnect the part from the motherboard and case; photograph it on your table in isolation.
+Because you will ultimately be rebuilding this PC, it is critical to carefully follow these directions and carefully document what you did. Take care not to remove components that are not listed below.
+- I/O shield
+- PCI slots on motherboard
+- PCI-Express slots on motherboard
+- Processor or Central Processing Unit (CPU) w/ CPU fan
+- Motherboard, identify make, model, and specs
+- Random Access Memory (RAM) - EXTRACT, identify make, model, and specs
+- Hard drive (HDD, 2.5” SSD and/or M.2 SSD) - EXTRACT, identify make, model, and specs
+- Chassis Fan - EXTRACT, identify make, model, and specs
+- If your PC uses rubber plugs to attach the fan to the chassis instead of metal screws DO NOT EXTRACT. Just photograph it in place.
+- CD/DVD-ROM Drive - EXTRACT, identify make, model, and specs
+- Power supply - identify make, model, and specs
+- Case
+Leave the Lab PC disassembled until the next class.
+If you have not received your lab kit tower or monitor yet, you may get started by completing the description and purpose requirements and then resubmit the assignment with pictures of your disassembled computer later.
+## Submission Instructions
+- Name the document according to your course code and assignment.
+i.e. seattle-ops-102d33: Lab 04
+- Add your name & date at the top of the Google Doc.
+- Share your Google Doc so that “Anyone with the link can comment”.
+- Paste the link to your Google Doc in the discussion field below and share an observation from your experience in this lab including how long this lab took to complete.
