@@ -36,36 +36,36 @@ i.e. seattle-ops-102d33: Lab 04
 - Paste the link to your Google Doc in the discussion field below and share an observation from your experience in this lab including how long this lab took to complete.
 
 # I/O Shield
-**bold text** Description: The component has multiple ports for USB drives and HDMI connectors
-**bold text** Purpose: Allows for air flow and protects your inputs and outputs from being damaged
+**Description**: The component has multiple ports for USB drives and HDMI connectors
+**Purpose**: Allows for air flow and protects your inputs and outputs from being damaged
 PCI Slots on Motherboard
 
 
-Description: Flat long rectanglular chips inserted into the motherboard
-Purpose: Allows you to attach hardware components such as network cards, modems, sound cards, disk controllers and more
+**Description**: Flat long rectanglular chips inserted into the motherboard
+**Purpose**: Allows you to attach hardware components such as network cards, modems, sound cards, disk controllers and more
 
-PCI-Express slots
+# PCI-Express slots
 
 
 
-Description: Two distinctly colored slots noticeably smaller than PCI slots
-Purpose:  It is used as an interface for motherboard components including graphics, memory, and storage
-Random Access Memory (RAM)
+**Description**: Two distinctly colored slots noticeably smaller than PCI slots
+**Purpose**:  It is used as an interface for motherboard components including graphics, memory, and storage
+# Random Access Memory (RAM)
 
-Description: 4 Green rectangular chips
-Purpose: Ram is used to store information that needs to be used quickly
-Make : My technology geeks
-Model: 1600 8GB 2Rx8-CA3-33
-Specs: 8GB per chip 32GB total
-Hard drive
+**Description**: 4 Green rectangular chips
+**Purpose**: Ram is used to store information that needs to be used quickly
+**Make** : My technology geeks
+**Model**: 1600 8GB 2Rx8-CA3-33
+**Specs**: 8GB per chip 32GB total
+# Hard drive
 
-Description: Flat metal component
-Purpose: For storing all digital content
-Make: Intel   Model: SSDSC2KF256G8  Specs: 256GB
-Chassis Fan
+**Description**: Flat metal component
+**Purpose**: For storing all digital content
+**Make**: Intel   **Model**: SSDSC2KF256G8  **Specs**: 256GB
+# Chassis Fan
 
-Description: Mini black plastic fan attached to the side of the frame
-Purpose: It is used to dissipate heat generated from other components 
+**Description**: Mini black plastic fan attached to the side of the frame
+**Purpose**: It is used to dissipate heat generated from other components 
 
 Instructor told us not to remove the fan because there are rubber plugs
 
@@ -73,31 +73,29 @@ Instructor told us not to remove the fan because there are rubber plugs
 
 
 
-CD/DVD-ROM Drive
+# CD/DVD-ROM Drive
 
 
 
-Make: HL Data Storage
-Model: GH70N
-Specs: ROM VER. A101
-Description: Solid Metal rectangular tin. Had to unscrew to remove DVD drive from frame.
-Purpose: This component of the computer is for inserting a DVD or CD and to read its data.
+**Make**: HL Data Storage
+**Model**: GH70N
+**Specs**: ROM VER. A101
+**Description**: Solid Metal rectangular tin. Had to unscrew to remove DVD drive from frame.
+**Purpose**: This component of the computer is for inserting a DVD or CD and to read its data.
 
 
-Power Supply
+# Power Supply
 
-Make: Dell INc
-Model: L265EM-00
-Specs: Input - 100-240V Output - +12VA
-Description: Solid Metal square tin. Should not remove due to electrical components that may injure oneself.
-Purpose: To supply power to all of the other computer components
-
-
-
-Case
+**Make**: Dell INc
+**Model**: L265EM-00
+**Specs**: Input - 100-240V Output - +12VA
+**Description**: Solid Metal square tin. Should not remove due to electrical components that may injure oneself.
+**Purpose**: To supply power to all of the other computer components
 
 
 
-Description: Large flat square that was easy to remove from the frame of the computer.
-Purpose: To protect the interior components of the computer
+# Case
+![alt text](image.jpg) 
+**Description**: Large flat square that was easy to remove from the frame of the computer.
+**Purpose**: To protect the interior components of the computer
 
