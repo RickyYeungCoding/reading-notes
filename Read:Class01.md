@@ -1,5 +1,6 @@
 Ricky Yeung
 2/5/24
+
 Understanding how hackers gain access to computer hardware and software data is crucial to preventing them from happening in the first place.
 # How is a hardware hack different than a software hack?
 Software hacking gives an attacker the ability to lock out a user, steal data, or cause havoc. Hardware hacking involves exploiting a flaw in the security of the physical components of a device. Unlike software hacks, a hardware hack requires access to a physical device to execute hacking.
