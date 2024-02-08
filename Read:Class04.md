@@ -1,3 +1,5 @@
+Understanding the fundaments of Ubuntu is important as a future cybersecurity engineer as we will be working with the linux operating system throughout our career
+
 # What is Ubuntu?
  Ubuntu is free to use Linux operating system used for open source software development
 # Why would you choose to install the LTS version over regular Ubuntu releases?
