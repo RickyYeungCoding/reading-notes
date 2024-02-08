@@ -9,3 +9,5 @@ Use command “mv” to rename/move files
 A relative path is a location that's relative to a current directory while absolute path starts at the root directory and gives the full path to a directory or file. The tilde (~) is used to represent the home directory. When starting with ~ it's replaced with the absolute path to home directory. The forward slash (/) is used to separate directories from files. When starting with / in an absolute path, it represents the root directory of the file system.
 # Explain what Linux is, using anything except English.
 Linux is an open source operating system that allows the execution of almost all file formats by using a command line.
+## Things i want to know more about
+How can i create a firewall with Linux?
